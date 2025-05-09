@@ -23,7 +23,7 @@ class SlantedRectangle extends Rectangle {
     
     @Override
     public String toString() {
-        return super.toString() + " angle=" + angle;
+        return super.toString() + " angle=" + angle; //Conversion de la valeur en string
     }
 
     @Override
