@@ -19,7 +19,7 @@ class SlantedRectangle extends Rectangle {
     public boolean contains(Point pt) {
         return super.contains(pt); 
     }
-
+    /* Partie Yannick Penn */
     
     @Override
     public String toString() {
