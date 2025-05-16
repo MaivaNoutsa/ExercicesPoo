@@ -1,4 +1,5 @@
 public class Rectangle {
+    //Partie Marc
     protected Point p;
     private double width, height;
     static int nbr;
