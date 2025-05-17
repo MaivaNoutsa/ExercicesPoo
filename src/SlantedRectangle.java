@@ -6,7 +6,7 @@ class SlantedRectangle extends Rectangle {
         super(p, w, h);
         angle = a;
     }
-
+//Partie NAMMI
     public SlantedRectangle(Point p, double w, double h) {
         super(p, w, h);
     }
