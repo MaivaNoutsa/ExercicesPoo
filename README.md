@@ -5,5 +5,4 @@ Projet Travail personnel de l'étudiant
 2-SOUWA MAHAMAT
 3-YANNICK PENN
 4-MARC BAIRABE
-5-NAMMI JUNIOR
-
+5-NAMMI
